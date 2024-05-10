@@ -10,7 +10,7 @@ This web application is a simple To-do list developed as part of the web develop
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
+- [contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
